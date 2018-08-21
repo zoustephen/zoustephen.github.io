@@ -70,9 +70,9 @@ gitalk:
   owner: zoustephen    #github用户名
   admin: zoustephen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  <script src="http://cdn.bootcss.com/blueimp-md5/1.1.0/js/md5.js">
+#  <script src="http://cdn.bootcss.com/blueimp-md5/1.1.0/js/md5.js">
   id: md5(location.pathname),   
-  </script>
+#  </script>
   
 
 # 统计
