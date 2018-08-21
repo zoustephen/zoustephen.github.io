@@ -69,7 +69,7 @@ gitalk:
   owner: zoustephen    #github用户名
   admin: zoustephen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  id: window.location.pathname,
+  id: decodeURI(window.location.pathname)
   
 
 # 统计
