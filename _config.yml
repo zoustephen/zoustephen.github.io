@@ -59,7 +59,7 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
-#<script src="../md5.min.js"></script>
+<script src="/md5.min.js">
 
 # Gitalk
 gitalk:
@@ -70,8 +70,10 @@ gitalk:
   owner: zoustephen    #github用户名
   admin: zoustephen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  id: '{{ page.title }}'
+  id: md5(window.location.pathname)
 
+  
+</script>
 # 统计
 
 # Analytics settings
