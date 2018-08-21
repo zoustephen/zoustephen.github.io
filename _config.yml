@@ -11,7 +11,7 @@ github_repo: "https://github.com/zoustephen/zoustephen.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Only when the tide goes out do you discover who's been swimming naked!"
+sidebar-about-description: "Only when the tide goes out，you will discover who has been swimming naked!"
 sidebar-avatar: /img/avatar_s.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -39,7 +39,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
@@ -68,6 +68,7 @@ gitalk:
   owner: zoustephen    #github用户名
   admin: zoustephen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  id: 'window.location.pathname'
 
 
 # 统计
