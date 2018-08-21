@@ -71,7 +71,7 @@ gitalk:
   admin: zoustephen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
   <script src="http://cdn.bootcss.com/blueimp-md5/1.1.0/js/md5.js">
-  id: ‘<%= page.date %>’
+  id: md5(location.pathname),   
   </script>
   
 
