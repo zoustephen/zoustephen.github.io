@@ -61,7 +61,7 @@ kramdown:
 
 
 # Gitalk
-<script src="/js/md5.min.js"></script>
+
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 3bacb33b6d751248f579                            #生成的clientID
@@ -70,7 +70,7 @@ gitalk:
   owner: zoustephen    #github用户名
   admin: zoustephen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  id: md5(location.pathname),
+  id: location.pathname,
   
 
 # 统计
