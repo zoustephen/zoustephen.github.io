@@ -1,10 +1,10 @@
 # Site settings
-title: 刺猬偷腥
-SEOTitle: 刺猬偷腥 | 刺猬偷腥的博客
+title: 价值为锚
+SEOTitle: 价值为锚 | 刺猬偷腥的博客
 header-img: img/post-bg-desk.jpg
 email: kainvest@sina.com
 description: "Risk comes from not knowing what you're doing."
-keyword: "刺猬偷腥, 刺猬偷腥的博客, 投资, 价值投资, 低估买高估卖, 新能源汽车, 新能源, 天齐锂业, 锂电池"
+keyword: "价值为锚, 刺猬偷腥, 刺猬偷腥的博客, 投资, 价值投资, 低估买高估卖, 新能源汽车, 新能源, 天齐锂业, 锂电池"
 url: "http://zoustephen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zoustephen/zoustephen.github.io.git" # you code repository
