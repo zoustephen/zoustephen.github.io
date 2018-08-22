@@ -3,7 +3,7 @@ title: 快速浏览天齐发布的一系列公告
 layout: post
 tags: 天齐锂业 SQM 锂行业 能源板块
 catalog: 'true'
-header_img: img/post-bg-li.jpg
+header-img: img/post-bg-li.jpg
 ---
 #### 1、行业展望。
 
