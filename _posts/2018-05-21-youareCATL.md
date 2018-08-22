@@ -2,7 +2,7 @@
 title: 原来你是这样的宁德时代
 layout: post
 catalog: 'true'
-header_img: img/post-bg-ioses.jpg
+header-img: img/post-bg-ioses.jpg
 tags: 锂行业 能源板块 宁德时代
 ---
 ![image](http://upload-images.jianshu.io/upload_images/8031739-8ee6a223527205f2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
