@@ -3,7 +3,7 @@ title: 智利矿业化工一季报解读
 layout: post
 tags: SQM 锂行业 能源板块
 catalog: 'true'
-header_img: img/post-bg-dianchi.jpg
+header-img: img/post-bg-dianchi.jpg
 ---
 [$智利矿业化工(SQM)$](http://xueqiu.com/S/SQM) 昨天出了一季报，然后便大跌6%。一季报中提到的负面的因素不少，正面的因素也有，综合来说是否存在被错杀的可能？在评估经营状况之前，需要先了解SQM各项业务对营收和毛利的贡献程度，然后才能进行有效的整体预测。
 
@@ -58,5 +58,3 @@ header_img: img/post-bg-dianchi.jpg
 2018年5月24日
 
 个人持有天齐锂业的仓位，分享思路仅供参考，请勿据此买卖。
-
-[@今日话题](http://xueqiu.com/n/%E4%BB%8A%E6%97%A5%E8%AF%9D%E9%A2%98) [@财智力量](http://xueqiu.com/n/%E8%B4%A2%E6%99%BA%E5%8A%9B%E9%87%8F)  [@林奇法则](http://xueqiu.com/n/%E6%9E%97%E5%A5%87%E6%B3%95%E5%88%99) [@奶漫金山](http://xueqiu.com/n/%E5%A5%B6%E6%BC%AB%E9%87%91%E5%B1%B1)
