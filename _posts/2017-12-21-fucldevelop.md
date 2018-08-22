@@ -2,7 +2,7 @@
 title: 整理一下国内燃料电池汽车产业链的发展情况
 layout: post
 tags: 能源板块
-header_img: post-bg-universe.jpg
+header-img: img/post-bg-universe.jpg
 catalog: 'true'
 categories: ''
 ---
