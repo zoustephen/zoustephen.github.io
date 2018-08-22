@@ -4,6 +4,7 @@ layout: post
 tags: 能源板块
 header_img: post-bg-universe.jpg
 catalog: 'true'
+categories: ''
 ---
 #### 日本的努力
 
@@ -74,7 +75,7 @@ catalog: 'true'
 
 ![image](http://upload-images.jianshu.io/upload_images/8031739-d69b7a6f9b8414db.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##### ** 上海**
+##### **上海**
 
 上海市科委、市经信委、市发展改革委近日联合印发《上海市燃料电池汽车发展规划》：
 
