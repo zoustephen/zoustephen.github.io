@@ -3,6 +3,7 @@ title: 快速浏览智利矿业化工的半年报
 layout: post
 tags: SQM 锂行业 能源板块
 catalog: 'true'
+author: 刺猬偷腥
 ---
 昨天SQM公布了上半年的财报。根据Zacks Investment Research的分析师一致预期，二季度的EPS为$0.38，然而这些分析师又错了。
 
