@@ -4,6 +4,7 @@ layout: post
 tags: SQM 锂行业 能源板块
 catalog: 'true'
 header-img: img/post-bg-dianchi.jpg
+author: 刺猬偷腥
 ---
 [$智利矿业化工(SQM)$](http://xueqiu.com/S/SQM) 昨天出了一季报，然后便大跌6%。一季报中提到的负面的因素不少，正面的因素也有，综合来说是否存在被错杀的可能？在评估经营状况之前，需要先了解SQM各项业务对营收和毛利的贡献程度，然后才能进行有效的整体预测。
 

@@ -4,6 +4,7 @@ layout: post
 catalog: 'true'
 header-img: img/post-bg-ioses.jpg
 tags: 锂行业 能源板块 宁德时代
+author: 刺猬偷腥
 ---
 ![image](http://upload-images.jianshu.io/upload_images/8031739-8ee6a223527205f2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
