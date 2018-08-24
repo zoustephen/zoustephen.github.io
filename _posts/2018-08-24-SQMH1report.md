@@ -8,7 +8,7 @@ catalog: 'true'
 
 ![image](http://upload-images.jianshu.io/upload_images/8031739-4a4d646dc76a4778.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-**上半年经营状况：**
+#### **上半年经营状况：**
 
 1、SQM的总收入为11.57亿美元，同比增长13%。
 2、盈利为2.47亿美元，同比增长21.2%。
@@ -16,7 +16,7 @@ catalog: 'true'
 4、毛利率同比上升1个百分点至36%，毛利润为4.17亿美元，同比增长16.48%。
 5、上半年的锂供应跟不上需求的增长，偏紧的供需状况导致锂产品价格维持在高位。
 
-**二季度经营状况：**
+#### **二季度经营状况：**
 
 1、二季度收入1.34亿美元，同比增长34.21%。
 2、毛利润为2.24亿美元，同比增长26.4%。
@@ -25,7 +25,7 @@ catalog: 'true'
 5、氯化钾销售大幅下降，这是主动提高锂产量的结果。
 6、碳酸锂扩建项目的第一阶段已完成，产能达到7万吨/年。目前已经投入运营，预期在四季度实现满产。第二阶段的扩建即将开始，预计在2019年底完成，产能提升至12万吨/年。
 
-**未来展望：**
+#### **未来展望：**
 
 1、下半年的锂业务销量将**比上半年增长将近50%**，全年总销量将超过5万吨。
 2、2018年的锂需求增长超过20%。
@@ -33,7 +33,7 @@ catalog: 'true'
 4、**依靠Mt. Holland的矿，预计未来每年可生产至少45,000吨氢氧化锂。**
 4、出售阿根廷Cauchari-Olaroz项目的股份，预计在四季度完成。
 
-**锂业务的更多信息：**
+#### **锂业务的更多信息：**
 
 1、上半年收入增长17%至3.48亿美元。锂业务营收占比超过30%。
 2、锂业务的毛利润占综合毛利的比例为57%。
@@ -42,11 +42,11 @@ catalog: 'true'
 
 ![image](http://upload-images.jianshu.io/upload_images/8031739-b471a8a3aaf4bc97.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-**资产负债表：**
+#### **资产负债表：**
 
 ![image.png](https://upload-images.jianshu.io/upload_images/8031739-5ffb885ddd8cfe6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-**利润表：**
+#### **利润表：**
 
 ![image.png](https://upload-images.jianshu.io/upload_images/8031739-b728f95ecb84cc83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
