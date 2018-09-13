@@ -1,9 +1,9 @@
 ---
 title: 《艺术作品如何定价》读书笔记
 layout: post
-catalag: 'true'
 author: 刺猬偷腥
 tags: 读书笔记
+catalog: 'true'
 ---
 ![艺术品如何定价](https://upload-images.jianshu.io/upload_images/8031739-5f715ef18b961650.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
